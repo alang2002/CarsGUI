@@ -22,6 +22,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
   <component name="RunManager" selected="Application.CarForm">
     <configuration name="CarForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CarForm" />
@@ -62,25 +65,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1604521095427">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="740" y="175" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1604702410140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="175" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1920.1040@0.0.1920.1040" timestamp="1604702410140" />
+    <state x="686" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1604701093328">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1604521095427" />
-    <state width="1323" height="172" key="GridCell.Tab.0.bottom" timestamp="1604522845386">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="686" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604701093328" />
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1604702018722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604702018722" />
+    <state width="1877" height="88" key="GridCell.Tab.0.bottom" timestamp="1604702566492">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604522845386" />
-    <state width="1323" height="172" key="GridCell.Tab.0.center" timestamp="1604522845385">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="88" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604702566492" />
+    <state width="1877" height="88" key="GridCell.Tab.0.center" timestamp="1604702566492">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604522845385" />
-    <state width="1323" height="172" key="GridCell.Tab.0.left" timestamp="1604522845385">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="88" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604702566492" />
+    <state width="1877" height="88" key="GridCell.Tab.0.left" timestamp="1604702566491">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604522845385" />
-    <state width="1323" height="172" key="GridCell.Tab.0.right" timestamp="1604522845386">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="88" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604702566491" />
+    <state width="1877" height="88" key="GridCell.Tab.0.right" timestamp="1604702566492">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604522845386" />
+    <state width="1877" height="88" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604702566492" />
+    <state x="620" y="234" key="GuiDesigner.FormSource.Dialog" timestamp="1604698039615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="620" y="234" key="GuiDesigner.FormSource.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604698039615" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1604698132362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604698132362" />
   </component>
 </project>
