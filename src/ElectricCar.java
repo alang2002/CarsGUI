@@ -60,10 +60,8 @@ public class ElectricCar extends Car{
     @Override
     public String toString() {
         String pCost = String.format("%.2f", CalcCostPerFill(getPumpCost()));
-        return "------------------------------------\n" +
-                super.toString() + "\nBattery Size: \t\t" + getBatterySize() + "\nBattery Type: \t\t" + getBatteryType() +
-                "\nCost to fill tank: \t" + pCost +
-                "\n-----------------------------------";
+        return super.toString() + " Battery Size: " + getBatterySize() + " Battery Type: " + getBatteryType() +
+                " Cost to fill tank: " + pCost;
     }
 
     /**

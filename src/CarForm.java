@@ -7,6 +7,7 @@ import java.util.List;
 public class CarForm {
     public static JFrame mainFrame;
     public static CarEntryForm carEntryForm;
+    public static DisplayCarsForm displayCarsForm;
     private JPanel root;
     private JButton addEntryButton;
     private JButton displayEntriesButton;
@@ -16,14 +17,15 @@ public class CarForm {
         addEntryButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                carEntryForm = new CarEntryForm();
+                carEntryForm = new CarEntryForm(carArrayList);
                 mainFrame.setVisible(false);
             }
         });
         displayEntriesButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-
+                displayCarsForm = new DisplayCarsForm(carArrayList);
+                mainFrame.setVisible(false);
             }
         });
     }

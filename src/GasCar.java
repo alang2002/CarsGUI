@@ -61,10 +61,8 @@ public class GasCar extends Car{
     public String toString() {
         // Formats the fill cost to .2 decimal places, puts it in a string to format it
         String pCost = String.format("%.2f", CalcCostPerFill(getPumpCost()));
-        return  "------------------------------------\n" +
-                super.toString() + "\nTank Size: \t\t\t" + getTankSize() + "\nFuel Type: \t\t\t" + getFuelType() +
-                "\nCost to fill tank: \t" + pCost +
-                "\n-----------------------------------";
+        return  super.toString() + " Tank Size: " + getTankSize() + " Fuel Type: " + getFuelType() +
+                " Cost to fill tank: " + pCost;
     }
 
     /**

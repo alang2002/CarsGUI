@@ -311,7 +311,7 @@
       <member id="691d4"/>
       <member id="4ae95"/>
     </group>
-    <group name="colorChoiceGroup">
+    <group name="colorChoiceGroup" bound="true">
       <member id="899c0"/>
       <member id="9aae8"/>
       <member id="76abc"/>

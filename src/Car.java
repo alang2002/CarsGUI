@@ -127,8 +127,8 @@ public abstract class Car {
      */
     @Override
     public String toString() {
-        return "Make:\t\t\t\t" + getMake() + "\nModel:\t\t\t\t" + getModel() + "\nColor:\t\t\t\t" + getColor() +
-                  "\nYear:\t\t\t\t" + getYear() + "\nWeight:\t\t\t\t" + getWeight();
+        return "Make: " + getMake() + " Model: " + getModel() + " Color: " + getColor() +
+                  " Year: " + getYear() + " Weight: " + getWeight();
     }
 
     // Abstract method that all classes must implement
